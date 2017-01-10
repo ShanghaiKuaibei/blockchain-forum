@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>区块链全球论坛</title>
+
+    <!-- css -->
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body data-spy="scroll" data-target="#site-nav">
+    <nav id="site-nav" class="navbar navbar-fixed-top navbar-custom">
+        <div class="container">
+            <div class="navbar-header">
+
+                
+
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-items" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+            </div><!-- /.navbar-header -->
+
+            <div class="collapse navbar-collapse" id="navbar-items">
+                <ul class="nav navbar-nav navbar-right">
+
+                    <!-- navigation menu -->
+                    <li class="active"><a data-scroll href="#about">邀请函</a></li>
+                    <li><a data-scroll href="#schedule">议程</a></li>   
+                    <li><a data-scroll href="#speakers">演讲嘉宾</a></li>                             
+                    <li><a data-scroll href="#faq">参会者</a></li>
+                    <li><a data-scroll href="#">媒体</a></li>   
+                    <li><a data-scroll href="#photos">照片</a></li>
+                    <li><a data-scroll href="#location">地点</a></li>
+                    <li><a href="/cindex.html">English</a></li>
+                
+                </ul>
+            </div>
+        </div><!-- /.container -->
+    </nav>
+
+    <header id="site-header" class="site-header valign-center"> 
+        <div class="intro">
+                    
+            <p >中关村区块链产业联盟上海协同创新中心<br />上海智力产业园天空区块链孵化基地<br />上海股权托管交易中心上海智力产业园孵化基地</p>
+            <h1>落成典礼</h1>
+            <p>暨</p>
+            <h1>区块链全球论坛</h1>
+            <p>2016年 11月 18日</p>
+            
+            <a class="btn btn-white" data-scroll href="#registration">立即报名！</a>
+        
+        </div>
+    </header>
+
+    <section id="about" class="section about">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+
+                    <h3 class="section-title">邀请函</h3>
+
+                    <p>当今社会，以互联网为代表的信息技术日新月异，引领了社会生产新变革，创造了人类生活新空间，拓展了国家治理新领域，极大提高了人类认识世界、改造世界的能力。以万物互联、认知计算、大数据、云计算为代表的新一轮信息科技革命正在深刻的影响世界经济格局，将我国从网络大国建设成为网络强国已经成为基本国策。在大力发展网络技术的同时，我们也必须意识到，没有网络安全就没有国家安全。</p>
+
+                    
+
+                </div><!-- /.col-sm-6 -->
+
+                <div class="col-sm-6">
+
+                    <h3 class="section-title multiple-title"><br /></h3>
+
+                    <p>习总书记指示，要尽快在核心技术上取得突破，抓住基础技术、通用技术、非对称技术、前沿技术、颠覆性技术，把更多人力物力财力投向核心技术研发，集合精锐力量，作出战略性安排从而“推动网络经济创新发展，促进共同繁荣”和“保障网络安全，促进有序发展”。而区块链技术，是颠覆性的，下一代的互联网技术，其去中心化、点对点等技术特质，在有效提高网络效率的同时，亦是解决网络安全的有效方案，具有显著的技术领先优势。依托于区块链的产业发展将会带来新的经济、技术、管理革命，将会产生数十万亿以上的市场空间。</p>
+
+
+                </div><!-- /.col-sm-6 -->
+                <div class="col-sm-12">
+                    <figure>
+                        <img alt="" class="img-responsive" src="assets/images/about-us.jpg" width="100%">
+                    </figure>
+                </div>
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+
+    <section id="facts" class="section bg-image-1 facts text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3">
+
+                    <i class="ion-ios-calendar"></i>
+                    <h3>2016<br>11月18日</h3>
+                
+                </div>
+                <div class="col-sm-3">
+
+                    <i class="ion-ios-location"></i>
+                    <h3>中国<br>上海</h3>
+                
+                </div>
+                <div class="col-sm-3">
+
+                    <i class="ion-pricetags"></i>
+                    <h3>不限<br>票数</h3>
+                
+                </div>
+                <div class="col-sm-3">
+                
+                    <i class="ion-speakerphone"></i>
+                    <h3>14位<br>演讲者</h3>
+                
+                </div>
+            </div><!-- row -->
+        </div><!-- container -->
+    </section>
+    <div class="copyrights">Product By <a href="http://shellcoin.cn/" >Shellpay</a></div>
+
+    <section id="speakers" class="section speakers">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <h3 class="section-title">演讲者</h3>
+                
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-1.jpg">
+                        </figure>
+                        <h4>中关村区块链产业联盟秘书长</h4>
+                        <h4>王安平</h4>
+
+
+
+
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+<div class="col-md-4">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-l.jpg">
+                        </figure>
+                        <h4>上海瑞紫投资管理有限公司CEO</h4>
+                        <h4>刘俪娅</h4>
+
+
+
+
+                    </div><!-- /.speaker -->
+                </div>
+                 <div class="col-md-4">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-z.jpg">
+                        </figure>
+                        <h4>上海快贝网络科技有限公司CEO</h4>
+                        <h4>张红</h4>
+
+
+
+
+                    </div><!-- /.speaker -->
+                </div>
+  </div>
+     <div class="row">
+        <div class="col-md-4">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-c.jpg">
+                        </figure>
+                        <h4>江西先锋软件学院董事长</h4>
+                        <h4>陈苏</h4>
+
+
+
+
+                    </div><!-- /.speaker -->
+                </div>
+                <div class="col-md-4">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-2.jpg">
+                        </figure>
+                        <h4>上海快贝网络科技 首席科学家</h4>
+                        <h4>Brandon Smietana</h4>
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+                
+                
+                <div class="col-md-4">
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-3.jpg">
+                        </figure>
+                        <h4>上海快贝网络科技有限公司 CTO</h4>
+                        <h4>高海奎</h4>
+
+  
+
+
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+            </div><!-- /.row -->
+
+            <div class="row">
+                <div class="col-md-4">
+
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-4.jpg">
+                        </figure>
+                        <h4>天马微电子集团 CIO</h4>
+                        <h4>顾晓峰</h4>
+
+ 
+
+                    </div>
+                </div>
+                <div class="col-md-4">
+
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-5.jpg">
+                        </figure>
+                        <h4>上海智区网络科技有限公司 CEO</h4>
+                        <h4>严斯海</h4>
+
+                        </div>
+
+                    </div>
+                
+                
+                <div class="col-md-4">
+                    <div class="speaker">
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-6.jpg">
+                        </figure>
+                        <h4>沐传工业设计 CEO</h4>
+                        <h4>张文新</h4>
+         
+ 
+                    </div>
+                </div>
+                </div>
+<div class="row">
+                <div class="col-md-4">
+
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-7.jpg">
+                        </figure>
+                        <h4>涛视文化传播有限公司CEO</h4>
+                        <h4>徐涛</h4>
+
+ 
+
+                    </div>
+                </div>
+                <div class="col-md-4">
+
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-8.jpg">
+                        </figure>
+                        <h4>艾提集团 总裁</h4>
+                        <h4>叶森</h4>
+
+ 
+
+                    </div>
+                </div>
+              
+                <div class="col-md-4">
+
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-9.jpg">
+                        </figure>
+                        <h4>美国CNXT EoE公司联合创始人</h4>
+                        <h4>Chris Pardo</h4>
+
+ 
+
+                    </div>
+                </div>
+</div>
+<div class="row">
+<div class="col-md-4">
+
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-m.jpg">
+                        </figure>
+                        <h4>上海喵爪网络科技有限公司CEO</h4>
+                        <h4>李长梅</h4>
+
+ 
+
+                    </div>
+                </div>
+                <div class="col-md-4">
+
+                    <div class="speaker">
+
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="assets/images/speakers/speaker-d.jpg">
+                        </figure>
+                        <h4>瑞典天地集团联合创始人</h4>
+                        <h4>Daggy Getachew</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="registration" class="section registration">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="section-title">预定我的座位</h3>
+                </div>
+            </div>
+                
+            <form action="mail_send.php" method="post" id="registration-form">
+                <div class="row">
+                    <div class="col-md-12" id="registration-msg" style="display:none;">
+                        <div class="alert"></div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="您的姓名" id="fname" name="user" required>
+                        </div>
+                     </div>
+                    <div class="col-sm-6">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="手机号" id="cell" name="content" required>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="职务/所在机构" id="job" name="job" required>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="邮箱" id="email" name="email" required>
+                        </div>
+                    </div>
+                     <input type="hidden" name="title" value="Reserve a seat" />
+                     <input type="hidden" name="address" value="shellpay2016@126.com" />
+
+                </div>
+                <div class="text-center mt20">
+                    <button type="submit" class="btn btn-black" id="registration-submit-btn" >提交</button>
+                </div>
+            </form>
+               <div class="row">
+            <p class="text-center"><strong><br>报名缴费：请扫描下面二维码入群缴纳<br><strong/></p>
+                <div class="col-md-3 col-md-offset-3">
+                    <img alt=""  src="assets/images/wechat.jpg">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contribution" class="section bg-image-2 contribution">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="text-uppercase mt0 font-400">中关村区块链产业联盟上海协同创新中心</h3>
+                    <h3 class="text-uppercase mt0 font-400">上海智力产业园天空区块链孵化基地</h3>
+                    <h3 class="text-uppercase mt0 font-400">上海股权托管交易中心智力产业园孵化基地</h3>
+                    <p><br />落成典礼<br />暨</p>
+                     <h3 class="text-uppercase mt0 font-400">区块链全球论坛</h3>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="schedule" class="section schedule">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="section-title">活动安排<br / ><br />落成典礼  &nbsp&nbsp 9:00 - 13:30  ， 11月18日</h3>
+                </div>
+            </div>
+            <div class="row" >
+                <div class="col-md-4 col-sm-6">
+                    <div class="schedule-box ">
+                        <p style="font-size: 90%">9:30-10:30<br /><br />中关村区块链产业联盟<br /><br />上海协同创新中心<br /><br /><strong>落成仪式</strong></p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="schedule-box">
+                        <p style="font-size: 90%">10:30-11:30<br /><br />上海智力产业园天空孵化基地<br />上海股权托管交易中心<br />上海智力产业园孵化基地<br /><strong>启动仪式</strong><br />入驻企业代表演讲</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="schedule-box">
+                        <p >11:30-12:00 </p><br /><p style="font-size: 125%">参观上海智力产业园</p><br /><br />
+                    </div>
+                </div>
+            </div>
+    </section>
+<section id="cd-timeline" class="cd-container">
+<h3 class="section-title">区块链全球论坛   &nbsp&nbsp 13:30 - 17:30 </h3>
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">  </div>
+
+        <div class="cd-timeline-content">
+            <h2>中关村区块链产业联盟上海协同创新中心介绍</h2>
+            <p>中关村区块链产业联盟秘书长 王安平</p>
+           
+        </div>
+    </div>
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">  </div>
+
+        <div class="cd-timeline-content">
+            <h2>链出一个新世界</h2>
+            <p>上海快贝网络科技有限公司CEO 张红</p>
+            
+        </div>
+    </div>
+<div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">  </div>
+
+        <div class="cd-timeline-content">
+            <h2>互联互链 共识共赢，天空区块链孵化基地——驱动区块链生态引擎</h2>
+            <p>上海天空区块链孵化基地 上海瑞紫投资管理有限公司CEO 刘俪娅</p>
+            
+        </div>
+    </div>
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-movie">
+        </div>
+
+        <div class="cd-timeline-content">
+            <h2>天空账簿及天空币</h2>
+            <p>上海快贝网络科技 首席科学家 Brandon Smietana</p>
+            
+        </div>
+    </div>
+<div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-movie">
+        </div>
+
+        <div class="cd-timeline-content">
+            <h2>世界上第一个区块链小镇的诞生</h2>
+            <p>江西先锋软件学院董事长 陈苏</p>
+            
+        </div>
+    </div>
+   <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+        </div>
+
+        <div class="cd-timeline-content">
+            <h2>超级钱包及应用</h2>
+            <p>上海快贝网络科技有限公司 CTO 高海逵</p>
+            
+        </div>
+    </div>
+<div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-movie">
+        </div>
+
+        <div class="cd-timeline-content">
+            <h2>高科技制造业如何利用区块链打造高效业务</h2>
+            <p>天马微电子集团 CIO 顾晓峰</p>
+            
+        </div>
+    </div>
+ 
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-movie">
+        </div>
+
+        <div class="cd-timeline-content">
+            <h2>代币化与区块链</h2>
+            <p>艾提集团 总裁 叶森</p>
+           
+        </div>
+    </div>
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-movie">
+        </div>
+
+        <div class="cd-timeline-content">
+            <h2>打造基于区块链技术的基建信用关系管理系统平台</h2>
+            <p>上海智区网络科技有限公司 CEO 严斯海</p>
+        
+        </div>
+    </div>
+<div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-movie">
+        </div>
+
+        <div class="cd-timeline-content">
+            <h2>贯穿于B2B和B2C 商业模式的互联网金融及支付</h2>
+            <p>美国CNXT EoE公司联合创始人Chris Pardo</p>
+           
+        </div>
+    </div>
+<div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-movie">
+        </div>
+
+        <div class="cd-timeline-content">
+            <h2>区块链在教育中的应用</h2>
+            <p>上海喵爪网络科技有限公司CEO 李长梅</p>
+            
+        </div>
+    </div>
+  <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-movie">
+        </div>
+
+        <div class="cd-timeline-content">
+            <h2>用区块链技术建立AR／VR平台</h2>
+            <p>涛视文化传播有限公司CEO 徐涛</p>
+          
+        </div>
+    </div>
+      <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-movie">
+        </div>
+
+        <div class="cd-timeline-content">
+            <h2>设计的未来</h2>
+            <p>沐传工业设计 CEO 张文新</p>
+           
+        </div>
+    </div>
+  
+      
+    
+     <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-movie">
+        </div>
+
+        <div class="cd-timeline-content">
+            <h2>中国-北欧移动桥梁</h2>
+            <p>瑞典天地集团联合创始人Daggy Getachew</p>
+            
+        </div>
+    </div>
+</section>
+    
+
+    <section id="partner" class="section partner">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="section-title col-md-12">合作伙伴</h3>
+                    <div class="col-md-6"><h4>主办方：<br /></h4>
+                    <p><strong>上海市智力产业园<br /><br />天空区块链孵化基地<br /><br />上海股权托管交易中心智力产业园孵化基地<br /><br />卓越集团</strong></p></div>
+                    <div class="col-md-6"><h4>支持方：<br /></h4>
+                    <p><strong>中国工业和信息化部<br /><br />中国电子学会<br /><br />中关村区块链产业联盟<br /><br />上海市宝山庙行镇政府</strong></p>
+                </div>
+            </div>
+    </section>
+
+    <section id="faq" class="section faq">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="section-title">出席者</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12" style="background: #5f5959">
+                    <h3 style="color:white ">部分领导及贵宾：</h3>  
+                    <p style="color:white"><strong>中国电子学会名誉理事长 &nbsp&nbsp 吴基传
+                    <br />中国工程院院士、武汉邮电科学院副院长	&nbsp&nbsp余少华
+                    <br />中国工程院院院士、清华大学信息科学研究院院长&nbsp&nbsp陆建华
+                    <br />中国电子学会副秘书长	&nbsp&nbsp 林润华
+                    <br />中国工业和信息化部电子信息司副司长 &nbsp&nbsp 乔跃山
+                    <br />中关村区块链产业联盟秘书长 &nbsp&nbsp 王安平
+                    <br />上海市通信管理局局长 &nbsp&nbsp 陈皆重
+                    <br />上海市、区相关领导
+                    <br />上海股权托管交易中心总经理  &nbsp&nbsp  张云峰
+                    <br />曾任纽约、伦敦、香港中国银行行长 &nbsp&nbsp 郑柏林
+                    
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-md-12" style="background: #5f5959">
+                    <h3 style="color:white ">参会机构及公司：</h3>  
+                    <p class="col-md-6" style="color:white"><strong>上海快贝网络科技有限公司
+                    <br />上海喵爪网络科技有限公司
+                    <br />上海智区网络科技有限公司
+                    <br />上海瑞紫投资管理有限公司
+                    <br />天马微电子股份有限公司  
+                    <br />涛视文化传播有限公司
+                    <br />美国CNXT EoE公司</strong></p> 
+                    <p class="col-md-6" style="color:white"><strong>上海金唯嘉投资中心
+                    <br />上海航迪投资
+                    <br />沐传工业设计有限公司
+                    <br />北京华麒通信科技股份有限公司
+                    <br />瑞典天地有限公司
+                    <br />AI Qubaisi Group</strong></p> 
+                    
+                    
+                </div>
+    </section>
+
+    <section id="photos" class="section photos">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="section-title">照片</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <ul class="grid">
+                        
+                        <li class="grid-item grid-item-sm-6">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-1.jpg">
+                        </li>
+
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-2.jpg">
+                        </li>
+
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-3.jpg">
+                        </li>
+                    
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-5.jpg">
+                        </li>
+
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-6.jpg">
+                        </li>
+
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-7.jpg">
+                        </li>
+
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-8.jpg">
+                        </li>
+
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-2.jpg">
+                        </li>
+
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-3.jpg">
+                        </li>
+                    </ul>
+                </div>
+            </div>            
+        </div>
+    </section>
+
+    <section id="location" class="section location">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3">
+                    <h3 class="section-title">活动地点</h3>
+                    <address>
+                        <p>上海市宝智力产业园<br>卓越时代广场八号楼<br>上海宝山区呼兰西路60弄（近纪蕴路）
+                        <br> 联系人: Ms. Liu Jing<br> Email: lj@rich-purple.com</p>
+                    </address>
+                </div>
+                <div class="col-sm-7 col-sm-offset-2">
+                    <img alt="地图"  src="assets/images/map.png">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="site-info">
